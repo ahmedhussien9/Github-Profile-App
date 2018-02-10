@@ -2,7 +2,7 @@
 This is an Ionic app for github profile information
 
 # What is this repository for ? 
-this repository about ionic 3 app that help you to search for any user information in Github and get has information as well the repositories which made by the user# How do I get set up ? 
+this repository about ionic 3 app that help you to search for any user information in Github and get has information as well the repositories which made by the user.
 
 # How do I get set up ? 
 1- Ionic Cli 
@@ -16,8 +16,9 @@ this repository about ionic 3 app that help you to search for any user informati
 * TypeScript
 * RxJS library
 
-![Alt text](https://screenshots.firefox.com/A3sxxMyDLQj9w2t4/localhost" Optional title")
-
+#ScreenShots For The App
+![Alt text](https://screenshots.firefox.com/A3sxxMyDLQj9w2t4/localhost " App Screen 1")
+![Alt text](https://screenshots.firefox.com/4SiWbnQBmP5kM2ZV/localhost " App Screen 2")
 
 # Who do I talk to ? 
 Developed by Ahmed Hussien 

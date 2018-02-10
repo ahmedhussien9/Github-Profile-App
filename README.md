@@ -18,7 +18,7 @@ this repository about ionic 3 app that help you to search for any user informati
 
 #ScreenShots For The App
 
-![Alt text](https://screenshots.firefox.com/A3sxxMyDLQj9w2t4/localhost "Optional title")
+![Alt text](https://image.ibb.co/mDKz37/Github_Profile_Screen1.png "Optional title")
 ![Screen Two](https://screenshots.firefox.com/4SiWbnQBmP5kM2ZV/localhost)
 
 # Who do I talk to ? 

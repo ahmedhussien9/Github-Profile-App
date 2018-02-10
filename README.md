@@ -18,8 +18,8 @@ this repository about ionic 3 app that help you to search for any user informati
 
 #ScreenShots For The App
 
-![Alt text](https://image.ibb.co/mDKz37/Github_Profile_Screen1.png "Optional title")
-![Screen Two](https://screenshots.firefox.com/4SiWbnQBmP5kM2ZV/localhost)
+![Alt text](https://image.ibb.co/mDKz37/Github_Profile_Screen1.png)
+![Screen Two](https://image.ibb.co/eWtCqn/Github_Profile_Screen2.png)
 
 # Who do I talk to ? 
 Developed by Ahmed Hussien 
